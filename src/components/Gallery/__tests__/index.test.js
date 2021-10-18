@@ -10,18 +10,18 @@ const portrait = {
 
 afterEach(cleanup);
 
-describe("Gallery component", () => {
-  it("renders", () => {
+describe("Gallery is rendering", () => {
+  it("renders1", () => {
     render(<Gallery currentCategory={portrait} />);
   });
 
-  it("matches snapshot", () => {
+  it("renders2", () => {
     const { asFragment } = render(<Gallery currentCategory={portrait} />);
     expect(asFragment()).toMatchSnapshot();
   });
 });
 
-it("renders", () => {
+it("renders3", () => {
   const { getByTestId } = render(<Gallery currentCategory={portrait} />);
   expect(getByTestId("h1tag")).toHaveTextContent("Portraits");
 });
