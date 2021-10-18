@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Derimarg/photo-port/static/css/main.bf349c5e.chunk.css",
+    "main.js": "/Derimarg/photo-port/static/js/main.994c3d15.chunk.js",
+    "main.js.map": "/Derimarg/photo-port/static/js/main.994c3d15.chunk.js.map",
+    "runtime-main.js": "/Derimarg/photo-port/static/js/runtime-main.6a8cedbe.js",
+    "runtime-main.js.map": "/Derimarg/photo-port/static/js/runtime-main.6a8cedbe.js.map",
+    "static/js/2.cdc8a6e8.chunk.js": "/Derimarg/photo-port/static/js/2.cdc8a6e8.chunk.js",
+    "static/js/2.cdc8a6e8.chunk.js.map": "/Derimarg/photo-port/static/js/2.cdc8a6e8.chunk.js.map",
+    "index.html": "/Derimarg/photo-port/index.html",
+    "precache-manifest.349ad5942dc869646d540c31b1810f45.js": "/Derimarg/photo-port/precache-manifest.349ad5942dc869646d540c31b1810f45.js",
+    "service-worker.js": "/Derimarg/photo-port/service-worker.js",
+    "static/css/main.bf349c5e.chunk.css.map": "/Derimarg/photo-port/static/css/main.bf349c5e.chunk.css.map",
+    "static/js/2.cdc8a6e8.chunk.js.LICENSE.txt": "/Derimarg/photo-port/static/js/2.cdc8a6e8.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/Derimarg/photo-port/static/media/0.efdfd6a4.jpg",
+    "static/media/1.jpg": "/Derimarg/photo-port/static/media/1.e05d88b5.jpg",
+    "static/media/2.jpg": "/Derimarg/photo-port/static/media/2.efb308ab.jpg",
+    "static/media/3.jpg": "/Derimarg/photo-port/static/media/3.ff98319a.jpg",
+    "static/media/4.jpg": "/Derimarg/photo-port/static/media/4.ed8f654e.jpg",
+    "static/media/cover-image.jpg": "/Derimarg/photo-port/static/media/cover-image.6a2b7a16.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a8cedbe.js",
+    "static/js/2.cdc8a6e8.chunk.js",
+    "static/css/main.bf349c5e.chunk.css",
+    "static/js/main.994c3d15.chunk.js"
+  ]
+}
